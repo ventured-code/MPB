@@ -1,6 +1,7 @@
 # MPB
 Discord bot created to fill multiple purposes, and offer complete convenience to users.
 With the agenda of offering the most popular interactions to be **free** instead of paid services.
+## Disclaimer
 - This is a test bench for **MPB**
 ## Planned Updates
 1. Add Leveling
