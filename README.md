@@ -7,4 +7,4 @@ With the agenda of offering the most popular interactions to be **free** instead
 1. Add Leveling
 2. Streaming notifications
 3. Economy
-**Uptime is a working progress to be 24/7**
+4. Uptime is a working progress to be 24/7
